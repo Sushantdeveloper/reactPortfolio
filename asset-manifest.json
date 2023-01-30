@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reactPortfolio/static/css/main.51141f37.css",
-    "main.js": "/reactPortfolio/static/js/main.ec08ddd2.js",
+    "main.css": "/reactPortfolio/static/css/main.f2f0bd9e.css",
+    "main.js": "/reactPortfolio/static/js/main.259f3d56.js",
     "static/js/787.028b8f68.chunk.js": "/reactPortfolio/static/js/787.028b8f68.chunk.js",
     "static/media/Sushant saini.pdf": "/reactPortfolio/static/media/Sushant saini.d73142a0909ba65ea6a1.pdf",
+    "static/media/pf.png": "/reactPortfolio/static/media/pf.53c97bcebe9723943ba0.png",
+    "static/media/gym.png": "/reactPortfolio/static/media/gym.2796b922ceac8174d970.png",
     "static/media/img3.png": "/reactPortfolio/static/media/img3.2ce95ae113a5b1c15319.png",
-    "static/media/m-player.jpeg": "/reactPortfolio/static/media/m-player.66d9c3751190e04bc372.jpeg",
-    "static/media/pf.jpeg": "/reactPortfolio/static/media/pf.3919e773bb5adf360dbb.jpeg",
+    "static/media/music.png": "/reactPortfolio/static/media/music.f44a857ae5c32017108b.png",
     "static/media/glassesimoji.png": "/reactPortfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/hoc.png": "/reactPortfolio/static/media/hoc.e6af51fc04c57ae67096.png",
     "static/media/wave.png": "/reactPortfolio/static/media/wave.fdfef4069ad90f610990.png",
     "static/media/crown.png": "/reactPortfolio/static/media/crown.dbe416beae9b49b842ab.png",
     "static/media/Vector2.png": "/reactPortfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/logo.svg": "/reactPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reactPortfolio/index.html",
-    "main.51141f37.css.map": "/reactPortfolio/static/css/main.51141f37.css.map",
-    "main.ec08ddd2.js.map": "/reactPortfolio/static/js/main.ec08ddd2.js.map",
+    "main.f2f0bd9e.css.map": "/reactPortfolio/static/css/main.f2f0bd9e.css.map",
+    "main.259f3d56.js.map": "/reactPortfolio/static/js/main.259f3d56.js.map",
     "787.028b8f68.chunk.js.map": "/reactPortfolio/static/js/787.028b8f68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51141f37.css",
-    "static/js/main.ec08ddd2.js"
+    "static/css/main.f2f0bd9e.css",
+    "static/js/main.259f3d56.js"
   ]
 }
