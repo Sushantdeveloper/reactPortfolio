@@ -24,7 +24,7 @@ const Introsection=()=>{
     <div className="i-name">
 <span style={{ color: darkMode ? "white" : "" }}> Hy! I Am</span>
 <span>Sushant Saini </span>
-<span style={{ color: darkMode ? "white" : "" }}>Web Developer fresher level experience in the web designing and development , producting the Quality work 
+<span style={{ color: darkMode ? "white" : "" }}>I am a positive, enthusiastic and competent Web Developer, fresher, producting the Quality work.
 </span>
 
     </div>

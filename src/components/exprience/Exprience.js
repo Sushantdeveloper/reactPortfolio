@@ -9,7 +9,7 @@ function Exprience() {
     <div className='achivement'>
     <div className='circle' style={{color: darkMode?'var(--orange)':''}}>0+</div>
 <span  style={{color: darkMode?'white':''}}>Years</span>
-<span>Exprience</span>
+<span>Experience</span>
 
     </div>
     <div className='achivement'>

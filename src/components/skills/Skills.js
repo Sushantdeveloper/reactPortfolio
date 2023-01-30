@@ -19,7 +19,7 @@ function Skills() {
             <span  style={{ color: darkMode ? "white" : "" }}>Skills</span>
             <span style={{display:'none'}}>I</span>
             <span style={{display:'none'}}>Know</span>
-            <span  style={{ color: darkMode ? "white" : "" }}>I have learn this Technologise to make a effective and Responsive Website</span>
+            <span  style={{ color: darkMode ? "white" : "" }}>I have learn this Technologies to make a effective and Responsive Website</span>
     
             <a href={Resume} download >
 <button className=" button i-course">Download CV</button>

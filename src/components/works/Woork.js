@@ -3,9 +3,9 @@ import { themeContext } from "../../Context";
 import './work.css';
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
-import Sidebar from "../../img/m-player.jpeg";
- import Ecommerce from "../../img/pf.jpeg";
- import HOC from "../../img/hoc.png";
+import Sidebar from "../../img/music.png";
+ import Ecommerce from "../../img/pf.png";
+ import HOC from "../../img/gym.png";
 // import MusicApp from "../../img/musicapp.png";
 function Woork() {
   const theme = useContext(themeContext);
@@ -21,28 +21,29 @@ function Woork() {
   grabCursor={true}
    className="portfolio-slider" >
       <SwiperSlide>
-      <h1 className='ph'>Music-Player</h1>
-
-        <img src={Sidebar} alt="" />
-      </SwiperSlide>
-      <SwiperSlide>
-      <h1 className='ph'>GYM Website</h1>
-      
-
+      <h1 className='ph'>GYM-Website</h1>
+        <a href='https://sushantdeveloper.github.io/reactgymwebsite/'>
         <img src={HOC} alt="" />
+
+</a>
+
       </SwiperSlide>
       <SwiperSlide>
       <h1 className='ph'>Portfolio</h1>
-      
 
-        <img src={Ecommerce} alt="" />
+<a href='https://sushantdeveloper.github.io/reactPortfolio/'>
+<img src={Ecommerce} alt="" />
+
+</a>
       </SwiperSlide>
-      {/* <SwiperSlide>
-      <h1 className='ph'>Portfolio</h1>
-     
+      <SwiperSlide>
+      <h1 className='ph'>Music-Player</h1>
+<a href='https://sushantdeveloper.github.io/SpotifyMusicplayer/'>
+<img src={Sidebar} alt="" />
 
-        <img src={MusicApp} alt="" />
-      </SwiperSlide> */}
+</a>
+
+      </SwiperSlide>
       </Swiper> 
     </div>
   )

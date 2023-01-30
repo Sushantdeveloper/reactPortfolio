@@ -19,7 +19,7 @@ function Courses() {
         <div className='awsome'
       //  
         >
-            <span style={{ color: darkMode ? "white" : "" }}>My Tranning</span>
+            <span style={{ color: darkMode ? "white" : "" }}>My Training</span>
             <span>& </span>
             <span>Certificate</span>
             <span style={{ color: darkMode ? "white" : "" }} >I have learn this Technologise to make a effective and Responsive Website</span>
@@ -39,7 +39,7 @@ function Courses() {
             <Card 
             emoji={Heart}
             heading={"JavaScript"}
-            details={"Bacic & Advamce concept of javascript. "}/>
+            details={"Bacic & Advance concept of javascript. "}/>
         </motion.div>
         <motion.div 
           initial={{ left: " 14rem" }}
@@ -49,7 +49,7 @@ function Courses() {
             <Card 
             emoji={Glasses}
             heading={"React"}
-            details={"use of JavaS libray to a make effective UI "}/>
+            details={"use of the JS library to a make effective UI "}/>
         </motion.div>
 
         <motion.div 

@@ -120,10 +120,11 @@
   @media screen and (max-width: 480px) {
     .skills {
       flex-direction: column;
-      height: 36rem;
+      height: 28rem;
       padding: 0;
       gap: 5rem;
     }
+    
   
     .s-right {
       display: flex;
