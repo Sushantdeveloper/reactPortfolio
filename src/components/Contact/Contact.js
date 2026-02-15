@@ -1,7 +1,6 @@
 import React, { useContext, useRef, useState } from "react";
 import "./c.css";
 import { themeContext } from "../../Context";
-
 const Contact = () => {
   const theme = useContext(themeContext);
   const darkMode = theme.state.darkMode;
