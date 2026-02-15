@@ -5,7 +5,7 @@ import Introsection from './components/intro/Introsection';
 import Courses from './components/services/Courses';
 import Exprience from './components/exprience/Exprience';
 import Skills from './components/skills/Skills';
-// import Woork from './components/works/Woork';
+import About from './components/intro/About';
 // import Skills from './components/skills/Skills';
 import Contact from './components/Contact/Contact';
 import Woork from './components/works/Woork';
@@ -27,6 +27,7 @@ function App() {
      
    <Navbar/>
    <Introsection/>
+         <About/>
    <Exprience/>
    <Skills/>
 <Woork/>
